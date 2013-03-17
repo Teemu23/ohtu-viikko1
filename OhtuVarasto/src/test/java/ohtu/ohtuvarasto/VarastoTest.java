@@ -13,7 +13,7 @@ import static org.junit.Assert.*;
 public class VarastoTest {
 
     Varasto varasto;
-    double vertailuTarkkuus = 0.0001;
+    double vertailuTarkkuus = 0.00001;
 
     @Before
     public void setUp() {
